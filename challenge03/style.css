@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Roboto";
+  }
+
+  .hero {
+    padding: 6.25rem 0;
+    background-color: #23424A; 
+  }
+
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .content {
+    width: 60%;
+    max-width: 700px;
+  }
+
+  .heading {
+    color: white;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 3.519rem;
+  }
+
+  .paragraph {
+    color: white;
+    font-weight: 400;
+    font-size: 1.313rem;
+    line-height: 1.971rem;
+    margin-bottom: 4rem;
+  }
+
+  .button {
+    padding: 1rem 3rem;
+    border-radius: 6.25rem;
+    border: 0px;
+    border-style:  none;
+    color: #072A2D;
+    background-color: #38CFD9;
+    font-weight: 700;
+    font-size: 1.313rem;
+    line-height: 1.971rem;
+  }
+
+  .button:hover {
+    background-color: #7de4ed;
+  }
+
